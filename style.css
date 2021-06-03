@@ -1,0 +1,29 @@
+#id-div-one {
+  margin: 50px;
+  padding: 10px;
+  border: 10px solid black;
+  color: darkgray;
+  text-align: center;
+}
+
+#id-div-two {
+  border: 5px solid goldenrod;
+  align-self: center;
+  padding: 5px;
+  margin: 40px 510px;
+}
+
+#id-div-three {
+  color: darkgray;
+  border: 10px solid black;
+  padding: 5px;
+  margin: 100
+}
+
+.class-div-four {
+  border-collapse: collapse;
+  padding: 2px;
+  margin: 10;
+  border: 2px solid black;
+  border-spacing: 2px;
+}
